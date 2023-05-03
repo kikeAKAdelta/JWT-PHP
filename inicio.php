@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    Bienvenido
+    Bienvenido JWT
 </body>
 </html>
